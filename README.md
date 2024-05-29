@@ -22,7 +22,7 @@ Shells are essential software in computing, allowing communication with a comput
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repository-url>
+   git clone https://github.com/Arnaud212/Minishell.git
    cd minishell
    ```
 
